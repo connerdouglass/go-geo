@@ -1,5 +1,7 @@
 # go-geo
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/connerdouglass/go-geo.svg)](https://pkg.go.dev/github.com/connerdouglass/go-geo)
+
 Geographic coordinates and distances library written in Go.
 
 ## Representing coordinates
