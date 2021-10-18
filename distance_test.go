@@ -3,7 +3,7 @@ package geo_test
 import (
 	"testing"
 
-	"github.com/connerdouglas/go-geo"
+	"github.com/connerdouglass/go-geo"
 )
 
 func TestDistanceCalculation(t *testing.T) {

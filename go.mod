@@ -1,3 +1,3 @@
-module github.com/connerdouglas/go-geo
+module github.com/connerdouglass/go-geo
 
 go 1.16
